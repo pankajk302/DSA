@@ -1,0 +1,19 @@
+Write a program to find the maximum element in an array.
+
+Given an array of integers, write a program to calculate the sum of all the elements.
+
+Implement a function to reverse an array in-place, without using any additional memory.
+
+Write a program to find the second largest element in an array.
+
+Given an array of integers, write a program to find the frequency of each element in the array.
+
+Implement a program to check if an array is sorted in ascending order.
+
+Write a program to remove all duplicate elements from an array and return the modified array.
+
+Given two arrays, write a program to find the common elements between them.
+
+Implement a function to rotate an array by a given number of positions.
+
+Write a program to find the median element in an array of integers.
